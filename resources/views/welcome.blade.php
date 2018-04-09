@@ -88,7 +88,8 @@
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
-                    <a href="https://github.com/laravel/laravel">Test Page</a>
+                    <a href="https://github.com/laravel/laravel">Test1 Page</a>
+                    <a href="https://github.com/laravel/laravel">Test2 Page</a>
                 </div>
             </div>
         </div>
